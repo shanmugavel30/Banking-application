@@ -21,18 +21,18 @@ Modules:
 	    New user should give their name and password to signup.
 	    Password length should contains above 8 characters.<br><br>
 
-2.Manager Login:<br>
+1.Manager Login:<br>
     1.Show all users,<br>
     2.Remove user.<br><br>
 
-3.Account holder login:<br>
+2.Account holder login:<br>
     1.Check details
     2.Credit amount
     3.Debit amount
     4.Check balance
     5.Transaction history<br<br>
 
-4.New user:<br>
+3.New user:<br>
     In this module,new user have only one option that is create account.<br>
 
 Pojo classes:<br>
