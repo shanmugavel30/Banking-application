@@ -13,7 +13,7 @@
 	4.New user
 
 ## 1.Login:
-        There are 3 login
+       There are 3 login
 	   1.Manager login:
 	       Only one manager is available here,
 	       We will give name and password to enter manager module.
@@ -25,18 +25,18 @@
 	       Password length should contains above 8 characters.
 
 ## 1.Manager Login:
-        1.Show all users,
-        2.Remove user.
+       1.Show all users,
+       2.Remove user.
 
 ## 2.Account holder login:
-    	1.Check details
-    	2.Credit amount
-    	3.Debit amount
-    	4.Check balance
-    	5.Transaction history
+       1.Check details
+       2.Credit amount
+       3.Debit amount
+       4.Check balance
+       5.Transaction history
 
 ## 3.New user:
-    	In this module,new user have only one option that is create account.
+       In this module,new user have only one option that is create account.
 
 ## Pojo classes:
        1.Account holder
